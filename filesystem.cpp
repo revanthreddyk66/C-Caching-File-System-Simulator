@@ -263,7 +263,7 @@ public:
 
 // ========================= DEMO AND TESTING =========================
 int main() {
-    cout << "🚀 In-Memory File System with Caching Demo" << endl;
+    cout << "In-Memory File System with Caching Demo" << endl;
     cout << string(40, '=') << endl;
     FileSystem fs(3);
 
