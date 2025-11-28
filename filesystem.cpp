@@ -1,6 +1,4 @@
-This is the complete and corrected C++ source file with all the features you wanted.
 
-```cpp
 // In-Memory File System with Advanced Caching
 // Features: Create, Read, Write, Delete, LRU & LFU Caches
 
